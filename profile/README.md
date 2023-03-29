@@ -1,5 +1,5 @@
 ## Welcome to ML2 !
-ML2(Machine Learning Lab) is an independent research organization within [KC](<[https://www.kct.co.kr/#0](https://www.kct.co.kr/#0)>).
+ML2(Machine Learning Lab) is an independent research organization within [KC](https://www.kct.co.kr/#0).
 
 ---
 
